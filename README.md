@@ -1,15 +1,13 @@
-# 🔴⚫ Flamengo Scout System
+🔴⚫ Flamengo Scout System
 
 Projeto fictício sobre análise de jogadores do Flamengo.
 
-## Funcionalidades
-- Cadastro de jogadores
-- Estatísticas
-- Controle de gols
+#Funcionalidades
+- nomes dos jogadores
 
-## Tecnologias
-- Python
-- GitHub
+# Tecnologias
+- chat e google
+- Minha criatividade
 
-## Autor
-Matheus
+# Autor
+Matheus Alionço winchester
