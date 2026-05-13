@@ -1,4 +1,4 @@
-🔴⚫ Flamengo Scout System
+🔴⚫ Flamengo 
 
 Projeto fictício sobre análise de jogadores do Flamengo.
 
