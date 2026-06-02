@@ -1,13 +1,10 @@
-🔴⚫ Flamengo 
+#Flamengo 
 
-Projeto fictício sobre análise de jogadores do Flamengo.
+Projeto jogadores do Flamengo
 
-#Funcionalidades
-- nomes dos jogadores
+
+# nomes dos jogadores
 
 # Receba
-- chat e google
-- Minha criatividade
 
-# Autor
 Matheus Alionço winchester
