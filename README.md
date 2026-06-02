@@ -5,7 +5,7 @@ Projeto fictício sobre análise de jogadores do Flamengo.
 #Funcionalidades
 - nomes dos jogadores
 
-# Tecnologias
+# Receba
 - chat e google
 - Minha criatividade
 
